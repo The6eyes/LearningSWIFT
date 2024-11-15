@@ -25,11 +25,4 @@ if true && false && true {
     print("one was false")
 }
 
-# Example
 
-```
-code
-
-```
-
-`code`
