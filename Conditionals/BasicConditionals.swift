@@ -24,3 +24,12 @@ if true && false && true {
 } else {
     print("one was false")
 }
+
+# Example
+
+```
+code
+
+```
+
+`code`
