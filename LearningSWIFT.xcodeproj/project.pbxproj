@@ -1,0 +1,167 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXFileReference section */
+		5603E5C42CE7D94C00B19AE3 /* VariablesConstantsDT.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VariablesConstantsDT.swift; sourceTree = "<group>"; };
+		5603E5C62CE7D9C500B19AE3 /* Basic Operators.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Basic Operators.swift"; sourceTree = "<group>"; };
+		5603E5C82CE7E0FA00B19AE3 /* Optionals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Optionals.swift; sourceTree = "<group>"; };
+		5603E5CA2CE7E1E400B19AE3 /* BasicConditionals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicConditionals.swift; sourceTree = "<group>"; };
+		5603E5CC2CE7E23C00B19AE3 /* Functions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Functions.swift; sourceTree = "<group>"; };
+		5603E5D12CE7E6B500B19AE3 /* Arrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Arrays.swift; sourceTree = "<group>"; };
+		5603E5D22CE7E6CE00B19AE3 /* Dictionary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dictionary.swift; sourceTree = "<group>"; };
+		5603E5D32CE7E6F400B19AE3 /* Set.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Set.swift; sourceTree = "<group>"; };
+		5603E5D52CE7E71000B19AE3 /* For Loops.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "For Loops.swift"; sourceTree = "<group>"; };
+		5603E5D72CE7E73100B19AE3 /* Struct.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Struct.swift; sourceTree = "<group>"; };
+		5603E5D92CE7E75E00B19AE3 /* Enum & Switch statement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Enum & Switch statement.swift"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		5603E5BC2CE7D91F00B19AE3 = {
+			isa = PBXGroup;
+			children = (
+				5603E5C32CE7D93100B19AE3 /* Variables,Constants, Data Types */,
+				5603E5C52CE7D9AF00B19AE3 /* Operators */,
+				5603E5C72CE7E07A00B19AE3 /* Optionals */,
+				5603E5C92CE7E1DB00B19AE3 /* Conditionals */,
+				5603E5CB2CE7E21C00B19AE3 /* Functions */,
+				5603E5D02CE7E6AD00B19AE3 /* CollectionTypes */,
+				5603E5D42CE7E70A00B19AE3 /* Loops */,
+				5603E5D62CE7E72B00B19AE3 /* Struct */,
+				5603E5D82CE7E74300B19AE3 /* Enum */,
+			);
+			sourceTree = "<group>";
+		};
+		5603E5C32CE7D93100B19AE3 /* Variables,Constants, Data Types */ = {
+			isa = PBXGroup;
+			children = (
+				5603E5C42CE7D94C00B19AE3 /* VariablesConstantsDT.swift */,
+			);
+			path = "Variables,Constants, Data Types";
+			sourceTree = "<group>";
+		};
+		5603E5C52CE7D9AF00B19AE3 /* Operators */ = {
+			isa = PBXGroup;
+			children = (
+				5603E5C62CE7D9C500B19AE3 /* Basic Operators.swift */,
+			);
+			path = Operators;
+			sourceTree = "<group>";
+		};
+		5603E5C72CE7E07A00B19AE3 /* Optionals */ = {
+			isa = PBXGroup;
+			children = (
+				5603E5C82CE7E0FA00B19AE3 /* Optionals.swift */,
+			);
+			path = Optionals;
+			sourceTree = "<group>";
+		};
+		5603E5C92CE7E1DB00B19AE3 /* Conditionals */ = {
+			isa = PBXGroup;
+			children = (
+				5603E5CA2CE7E1E400B19AE3 /* BasicConditionals.swift */,
+			);
+			path = Conditionals;
+			sourceTree = "<group>";
+		};
+		5603E5CB2CE7E21C00B19AE3 /* Functions */ = {
+			isa = PBXGroup;
+			children = (
+				5603E5CC2CE7E23C00B19AE3 /* Functions.swift */,
+			);
+			path = Functions;
+			sourceTree = "<group>";
+		};
+		5603E5D02CE7E6AD00B19AE3 /* CollectionTypes */ = {
+			isa = PBXGroup;
+			children = (
+				5603E5D12CE7E6B500B19AE3 /* Arrays.swift */,
+				5603E5D32CE7E6F400B19AE3 /* Set.swift */,
+				5603E5D22CE7E6CE00B19AE3 /* Dictionary.swift */,
+			);
+			path = CollectionTypes;
+			sourceTree = "<group>";
+		};
+		5603E5D42CE7E70A00B19AE3 /* Loops */ = {
+			isa = PBXGroup;
+			children = (
+				5603E5D52CE7E71000B19AE3 /* For Loops.swift */,
+			);
+			path = Loops;
+			sourceTree = "<group>";
+		};
+		5603E5D62CE7E72B00B19AE3 /* Struct */ = {
+			isa = PBXGroup;
+			children = (
+				5603E5D72CE7E73100B19AE3 /* Struct.swift */,
+			);
+			path = Struct;
+			sourceTree = "<group>";
+		};
+		5603E5D82CE7E74300B19AE3 /* Enum */ = {
+			isa = PBXGroup;
+			children = (
+				5603E5D92CE7E75E00B19AE3 /* Enum & Switch statement.swift */,
+			);
+			path = Enum;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		5603E5BD2CE7D91F00B19AE3 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1610;
+			};
+			buildConfigurationList = 5603E5C02CE7D91F00B19AE3 /* Build configuration list for PBXProject "LearningSWIFT" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 5603E5BC2CE7D91F00B19AE3;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		5603E5C12CE7D91F00B19AE3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		5603E5C22CE7D91F00B19AE3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		5603E5C02CE7D91F00B19AE3 /* Build configuration list for PBXProject "LearningSWIFT" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5603E5C12CE7D91F00B19AE3 /* Debug */,
+				5603E5C22CE7D91F00B19AE3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 5603E5BD2CE7D91F00B19AE3 /* Project object */;
+}
