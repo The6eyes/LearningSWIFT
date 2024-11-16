@@ -4,7 +4,6 @@
 //
 //  Created by Fred Saffold on 11/15/24.
 //
-// I can code in this file and commit it.
 //MARK: ARRAYS
 //Definition: Container or list of objects. They start at 0 btw. They also go in order by the order it was inputed.
 //Examples:
